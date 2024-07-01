@@ -1,0 +1,595 @@
+[
+    {
+        "Rank": 1,
+        "logo":"https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg",
+        "College": "IIT Madras - Indian Institute of Technology (IITM), Chennai",
+        "Location": "Chennai, Tamil Nadu",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 144,
+        "Course_Fees": "₹ 2,09,550",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 21,48,000",
+            "Highest_Package": "₹ 1,98,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.6,
+            "Based_on": 289,
+            "Best_in": "Social Life"
+        },
+        "Ranking": {
+            "Position": "#3rd",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 2,
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/640px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
+        "College": "IIT Delhi - Indian Institute of Technology (IITD), Delhi",
+        "Location": "New Delhi, Delhi",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 89,
+        "Course_Fees": "₹ 2,14,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 19,50,000",
+            "Highest_Package": "₹ 1,80,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.7,
+            "Based_on": 310,
+            "Best_in": "Academics"
+        },
+        "Ranking": {
+            "Position": "#2nd",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        },
+        "featured":true
+    },
+    {
+        "Rank": 3,
+        "logo":"data:image/png;base64,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",
+        "College": "IIT Bombay - Indian Institute of Technology (IITB), Mumbai",
+        "Location": "Mumbai, Maharashtra",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 63,
+        "Course_Fees": "₹ 2,25,450",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 22,00,000",
+            "Highest_Package": "₹ 2,00,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 9.0,
+            "Based_on": 320,
+            "Best_in": "Campus Life"
+        },
+        "Ranking": {
+            "Position": "#1st",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 4,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbbMz-P0ZeAxxp-NZKorARVzE-aniCQd2dQ&s",
+        "College": "IIT Kanpur - Indian Institute of Technology (IITK), Kanpur",
+        "Location": "Kanpur, Uttar Pradesh",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 118,
+        "Course_Fees": "₹ 2,12,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 20,00,000",
+            "Highest_Package": "₹ 1,70,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.8,
+            "Based_on": 290,
+            "Best_in": "Research"
+        },
+        "Ranking": {
+            "Position": "#4th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 5,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSouaXdQx6ONcJ9B0FFqXjRNGG29geLIekw&s",
+        "College": "IIT Kharagpur - Indian Institute of Technology (IITKGP), Kharagpur",
+        "Location": "Kharagpur, West Bengal",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 150,
+        "Course_Fees": "₹ 2,10,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 19,80,000",
+            "Highest_Package": "₹ 1,85,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.5,
+            "Based_on": 270,
+            "Best_in": "Infrastructure"
+        },
+        "Ranking": {
+            "Position": "#5th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 6,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiZ1gUUEC7AHgDuHEhEz9xu50L8i-eNWPOw&s",
+        "College": "IIT Roorkee - Indian Institute of Technology (IITR), Roorkee",
+        "Location": "Roorkee, Uttarakhand",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 135,
+        "Course_Fees": "₹ 2,00,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 18,00,000",
+            "Highest_Package": "₹ 1,60,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.4,
+            "Based_on": 280,
+            "Best_in": "Placements"
+        },
+        "Ranking": {
+            "Position": "#6th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 7,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnI5BvtR3A2c4TnOO6XoHvpaHqX49ZpdtHTQ&s",
+        "College": "IIT Guwahati - Indian Institute of Technology (IITG), Guwahati",
+        "Location": "Guwahati, Assam",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 125,
+        "Course_Fees": "₹ 2,05,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 17,50,000",
+            "Highest_Package": "₹ 1,50,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.3,
+            "Based_on": 275,
+            "Best_in": "Environment"
+        },
+        "Ranking": {
+            "Position": "#7th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        },
+        "featured":true
+    },
+    {
+        "Rank": 8,
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/1/19/IIT_Hyderabad_Insignia.svg/1200px-IIT_Hyderabad_Insignia.svg.png",
+        "College": "IIT Hyderabad - Indian Institute of Technology (IITH), Hyderabad",
+        "Location": "Hyderabad, Telangana",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 105,
+        "Course_Fees": "₹ 2,15,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 18,75,000",
+            "Highest_Package": "₹ 1,55,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.2,
+            "Based_on": 260,
+            "Best_in": "Innovative Curriculum"
+        },
+        "Ranking": {
+            "Position": "#8th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 9,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnKv4PhtHWv9dWCtoZAz9yLB0ZPztvTIgDQ&s",
+        "College": "IIT BHU - Indian Institute of Technology (BHU), Varanasi",
+        "Location": "Varanasi, Uttar Pradesh",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 140,
+        "Course_Fees": "₹ 2,18,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 17,25,000",
+            "Highest_Package": "₹ 1,45,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.1,
+            "Based_on": 250,
+            "Best_in": "Cultural Activities"
+        },
+        "Ranking": {
+            "Position": "#9th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        },
+        "featured":true
+    },
+    {
+        "Rank": 10,
+        "logo":"https://upload.wikimedia.org/wikipedia/en/c/c4/Indian_Institute_of_Technology%2C_Indore_Logo.png",
+        "College": "IIT Indore - Indian Institute of Technology (IITI), Indore",
+        "Location": "Indore, Madhya Pradesh",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 130,
+        "Course_Fees": "₹ 2,10,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 16,80,000",
+            "Highest_Package": "₹ 1,40,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 8.0,
+            "Based_on": 240,
+            "Best_in": "Student-Teacher Ratio"
+        },
+        "Ranking": {
+            "Position": "#10th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 11,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLlUGmWncb90MBORaJ4kNBnjKH105iZ0j8A&s",
+        "College": "NIT Trichy - National Institute of Technology (NITT), Trichy",
+        "Location": "Trichy, Tamil Nadu",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Main_2023_Cutoff": 150,
+        "Course_Fees": "₹ 1,75,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 15,50,000",
+            "Highest_Package": "₹ 1,30,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.9,
+            "Based_on": 230,
+            "Best_in": "Campus Facilities"
+        },
+        "Ranking": {
+            "Position": "#11th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 12,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fbronXx2jUw_FTLf5tKbQGyEOF8wKhJ8ng&s",
+        "College": "NIT Surathkal - National Institute of Technology (NITK), Surathkal",
+        "Location": "Surathkal, Karnataka",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Main_2023_Cutoff": 160,
+        "Course_Fees": "₹ 1,80,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 15,00,000",
+            "Highest_Package": "₹ 1,25,00,000"
+        },
+        "User_Reviews": {
+            "Rating":7.8,
+            "Based_on": 220,
+            "Best_in": "Location"
+        },
+        "Ranking": {
+            "Position": "#12th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 13,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjXh8BOsozckoSxaGiOprbyZxqxccQ3GfOA&s",
+        "College": "IIT Dhanbad - Indian Institute of Technology (ISM), Dhanbad",
+        "Location": "Dhanbad, Jharkhand",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 145,
+        "Course_Fees": "₹ 2,00,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 14,50,000",
+            "Highest_Package": "₹ 1,20,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.7,
+            "Based_on": 210,
+            "Best_in": "Research Opportunities"
+        },
+        "Ranking": {
+            "Position": "#13th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 14,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovaXml-CSvr1oeHGwk2c8mHUZLgFLFp2dpQ&s",
+        "College": "IIT Ropar - Indian Institute of Technology (IITRPR), Ropar",
+        "Location": "Ropar, Punjab",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 155,
+        "Course_Fees": "₹ 2,05,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 14,00,000",
+            "Highest_Package": "₹ 1,15,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.6,
+            "Based_on": 200,
+            "Best_in": "Faculty"
+        },
+        "Ranking": {
+            "Position": "#14th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        },
+        "featured":true
+    },
+    {
+        "Rank": 15,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFwFLDRGJnG2ySqd98nSwb6fepLmoedV73w&s",
+        "College": "IIT Gandhinagar - Indian Institute of Technology (IITGN), Gandhinagar",
+        "Location": "Gandhinagar, Gujarat",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 160,
+        "Course_Fees": "₹ 2,10,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 13,80,000",
+            "Highest_Package": "₹ 1,10,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.5,
+            "Based_on": 190,
+            "Best_in": "Student Diversity"
+        },
+        "Ranking": {
+            "Position": "#15th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 16,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrwkuniCAWPapvRKlKlU7wDq4ecsVvB4LBQ&s",
+        "College": "IIT Patna - Indian Institute of Technology (IITP), Patna",
+        "Location": "Patna, Bihar",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 165,
+        "Course_Fees": "₹ 2,12,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 13,50,000",
+            "Highest_Package": "₹ 1,05,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.4,
+            "Based_on": 180,
+            "Best_in": "Innovation and Entrepreneurship"
+        },
+        "Ranking": {
+            "Position": "#16th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 17,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgamujDFgHVmfMjMNUqyGKcwDZ897YDy7I1A&s",
+        "College": "IIT Bhubaneswar - Indian Institute of Technology (IITBBS), Bhubaneswar",
+        "Location": "Bhubaneswar, Odisha",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 170,
+        "Course_Fees": "₹ 2,15,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 13,00,000",
+            "Highest_Package": "₹ 1,00,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.2,
+            "Based_on": 170,
+            "Best_in": "Campus Infrastructure"
+        },
+        "Ranking": {
+            "Position": "#17th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 18,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJRZ3_yQv901B8d5qxrZzv4vIOt4EpfLFUQ&s",
+        "College": "IIT Mandi - Indian Institute of Technology (IITMandi), Mandi",
+        "Location": "Mandi, Himachal Pradesh",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 175,
+        "Course_Fees": "₹ 2,18,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 12,80,000",
+            "Highest_Package": "₹ 95,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.2,
+            "Based_on": 160,
+            "Best_in": "Research and Development"
+        },
+        "Ranking": {
+            "Position": "#18th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 19,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4e8-9e4aQPavdr5rNPkhCg3qvAASLOqKRA&s",
+        "College": "IIT Jodhpur - Indian Institute of Technology (IITJ), Jodhpur",
+        "Location": "Jodhpur, Rajasthan",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 180,
+        "Course_Fees": "₹ 2,20,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 12,50,000",
+            "Highest_Package": "₹ 90,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.1,
+            "Based_on": 150,
+            "Best_in": "Student Support Services"
+        },
+        "Ranking": {
+            "Position": "#19th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    },
+    {
+        "Rank": 20,
+        "logo":"https://iitpkd.ac.in/sites/default/files/inline-images/IIT_PKD_short%20logo_RGB.jpg",
+        "College": "IIT Palakkad - Indian Institute of Technology (IITPKD), Palakkad",
+        "Location": "Palakkad, Kerala",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 185,
+        "Course_Fees": "₹ 2,22,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 12,20,000",
+            "Highest_Package": "₹ 85,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 7.1,
+            "Based_on": 140,
+            "Best_in": "Faculty Support"
+        },
+        "Ranking": {
+            "Position": "#20th",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        },
+        "featured":true
+    },
+    {
+        "Rank": 21,
+        "logo":"https://i.ytimg.com/vi/UE9oTvPYWVE/hqdefault.jpg",
+        "College": "IIT Tirupati - Indian Institute of Technology (IITT), Tirupati",
+        "Location": "Tirupati, Andhra Pradesh",
+        "Course": "B.Tech Computer Science Engineering",
+        "JEE_Advanced_2023_Cutoff": 190,
+        "Course_Fees": "₹ 2,25,000",
+        "Course_Type": "BE/B.Tech",
+        "Course_Duration": "1st Year Fees",
+        "Placement": {
+            "Average_Package": "₹ 12,00,000",
+            "Highest_Package": "₹ 80,00,000"
+        },
+        "User_Reviews": {
+            "Rating": 6.9,
+            "Based_on": 130,
+            "Best_in": "Academic Curriculum"
+        },
+        "Ranking": {
+            "Position": "#21st",
+            "Out_Of": 131,
+            "Location": "India",
+            "By": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhdvZnLV8YuOE2CyDQ3es0hkYcpaPaEP4TQ&s",
+            "Year": "2023",
+            "More": 9
+        }
+    }
+]
