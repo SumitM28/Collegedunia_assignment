@@ -4,7 +4,7 @@ import CollegeTable from './components/CollegeTable'
 function App() {
   return (
     <main className='w-full h-full flex justify-center '>
-      <div className='w-[90%] my-10'>
+      <div className='w-[90%] my-10 '>
 
       <CollegeTable/>
       </div>
